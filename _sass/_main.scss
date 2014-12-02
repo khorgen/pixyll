@@ -21,10 +21,12 @@ html, body {
   height: 100%;
 }
 
+/*
 img {
   width: auto;
   max-width: 100%;
 }
+*/
 
 .site-wrap {
   min-height: 100%;
@@ -283,6 +285,13 @@ h6,
 .social-icons iframe[title=Flattr] {
     position: relative;
     top: 0.1em;
+}
+.bm {
+  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 3.18rem;
+  font-weight: 900;
+  line-height: 1.2;
+   margin: 1.414em 0 0.5em;
 }
 
 @media screen and (min-width: 48em) {

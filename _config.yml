@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
+title:       Boom Mic Productions
 email:       betagrinder@gmail.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixyll"
+author:      Kristin Horgen
+description: "Boom Mic Productions is a production company based in the Washington, D.C. Area specializing in documentaries, music videos, and short films."
+baseurl:     "/pyxyll"
 url:         "http://betagrinder.github.io"
 
 # Google analytics
-google_analytics: UA-53548208-1
+google_analytics: false
 
 # Optional features
 animated:           false

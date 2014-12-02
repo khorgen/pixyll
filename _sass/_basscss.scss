@@ -58,6 +58,20 @@ small, .small, .f5 {
   line-height: 1.5rem;
 }
 
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 @media screen and (min-width: 48em) {
   .h1 {
     font-size: 4rem;
@@ -120,7 +134,7 @@ strong, .bold {
 }
 
 .measure {
-  max-width: 48rem;
+  max-width: 75rem;
 }
 
 .measure-narrow {
@@ -128,7 +142,7 @@ strong, .bold {
 }
 
 .measure-wide {
-  max-width: 60rem;
+  max-width: 100rem;
 }
 
 .leading-1 {
@@ -389,7 +403,7 @@ strong, .bold {
 }
 @media screen and (min-width: 64em) {
   .p-responsive {
-    padding: 4rem;
+    padding: 0rem;
   }
 
   .px-responsive {
