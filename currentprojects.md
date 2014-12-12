@@ -36,7 +36,7 @@ These, and more, are the questions we will answer.</p></div>
 </div>
 
 <br>
-<h4 class="service-heading">The Team </h4>
+<b>The Team </b>
 
 Director: [Kristin Horgen](http://www.kristinhorgen.com) has been working as a freelance photographer in the DC area for the past two years.  She is also a drummer and music video director.
 
