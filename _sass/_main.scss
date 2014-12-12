@@ -28,6 +28,30 @@ img {
 }
 */
 
+@media (min-width: 30em) {
+    .row { width: 100%; display: table; table-layout: fixed; }
+    .col1 { width: 70%; display: table-cell; }
+      .col2 { width: 30%; display: table-cell; }
+}
+
+
+.gfm_ad {
+    height: 125px;
+    background: url(/images/logo.png) no-repeat 18px 20px;
+}
+
+.right_bx {
+    float: left;
+    width: 304px;
+    border: 1px solid #e8e8e8;
+    border-bottom: 3px solid #E3E3E3;
+}
+
+.row text-center{
+content: " ";
+display: table;
+}
+
 .site-wrap {
   min-height: 100%;
   margin-bottom: -120px;
@@ -406,6 +430,7 @@ h6,
   .h2,
   h2 {
     font-size: 3.18rem;
+    margin-left: 2rem;
   }
 
   .h3,
@@ -416,6 +441,8 @@ h6,
   .h4,
   h4 {
     font-size: 1.591rem;
+    margin-left: 2rem;
+    /* MARGIN ADDED */
   }
 
   .posts .post-meta {

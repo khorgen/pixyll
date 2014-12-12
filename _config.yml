@@ -4,7 +4,7 @@ email:       slambo.horgen@gmail.com
 author:      Kristin Horgen
 description: "Boom Mic Productions is a production company based in the Washington, D.C. Area specializing in documentaries, music videos, and short films."
 baseurl:     "/pixyll"
-url:         "http://0.0.0.0:4000/"
+url:         ""
 
 # Google analytics
 google_analytics: false
