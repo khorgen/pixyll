@@ -14,7 +14,7 @@ permalink: /currentproject/
 The Gathering of the Juggalos is an annual music festival hosted by Psychopathic Records which spans 4 days and includes all kinds of events – music, wrestling matches, poker tournaments, ninja olympics, rap battles, tattoo contests, and more. In 2014 it was held in Thornville, OH from July 23 through July 27.
 </p><p>
 FAMILY VALUES is a documentary film that goes behind the scenes at the 2014 Gathering to explore this often-maligned Juggalo subculture, giving voice to those previously unheard. Identity, religion and the FBI are discussed against the backdrop of the Dark Carnival.
-</p></div>
+</p><p>WHOOP WHOOP!!!</p></div>
     <div class="col2">
      <h4 class="service-heading">Help Fund Us</h4>
                     <p class="text-muted">Please help us reach our finacial goal, so that we can complete this project. Simply go to <a href="http://www.gofundme.com/bkaxj4">GoFundMe</a> and make a donation. Keep an eye out for exciting new incentives.
