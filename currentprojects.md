@@ -8,16 +8,13 @@ permalink: /currentproject/
 
 <div class="row">
     <div class="col1">
-   <h4 class="service-heading">THE 2014 GATHERING OF THE JUGGALOS DOCUMENTARY</h4>
+   <h4 class="service-heading">Family Values</h4>
                    <p>
 
-The GOTJ is an annual music festival hosted by Psychopathic Records which spans 4 days and includes all kinds of events – music, wrestling matches, poker tournaments, ninja olympics, rap battles, tattoo contests, and more. It was held this year in Thorneville, OH from July 23 – July 27.
+The Gathering of the Juggalos is an annual music festival hosted by Psychopathic Records which spans 4 days and includes all kinds of events – music, wrestling matches, poker tournaments, ninja olympics, rap battles, tattoo contests, and more. In 2014 it was held in Thornville, OH from July 23 through July 27.
 </p><p>
-Previous documentaries have stripped the Juggalos of their humanity, portraying them as druggie criminals in clown make-up drinking Faygo. Why? We know that there is a greater story to be told.
-</p><p>
-Why do Juggalos come to the Gathering from all over America as well as the rest of the world? Where does their sense of community come from? What inspires people to come back year after year? When and why did they become Juggalos and Juggalettes?
-</p><p>
-These, and more, are the questions we will answer.</p></div>
+FAMILY VALUES is a documentary film that goes behind the scenes at the 2014 Gathering to explore this often-maligned Juggalo subculture, giving voice to those previously unheard. Identity, religion and the FBI are discussed against the backdrop of the Dark Carnival.
+</p></div>
     <div class="col2">
      <h4 class="service-heading">Help Fund Us</h4>
                     <p class="text-muted">Please help us reach our finacial goal, so that we can complete this project. Simply go to <a href="http://www.gofundme.com/bkaxj4">GoFundMe</a> and make a donation. Keep an eye out for exciting new incentives.
@@ -32,7 +29,7 @@ These, and more, are the questions we will answer.</p></div>
 
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-   <iframe width="100%" height="100%" src="//www.youtube.com/embed/DUQIibCVJsI" frameborder="0" allowfullscreen></iframe>
+   <iframe width="100%" height="100%" src="//www.youtube.com/embed/Gx5vuGpWXsA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <br>
